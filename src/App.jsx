@@ -30,12 +30,12 @@ function App() {
 
       <button
       onClick={addValue}
-      >Increment by One: {counter}</button>
+      >Increment by One</button>
       <br />
       <br />
       <button
         onClick={removeValue}
-      >Decrement by One: {counter}</button>
+      >Decrement by One</button>
       <br />
       <br />
       <button
